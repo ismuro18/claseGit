@@ -1,0 +1,37 @@
+documento de requisitos v1.0
+________________________________
+
+
+requisitos funcionales:
+
+RF001: El sistema debe permitir el registro de alumnos 
+
+RF002: El sistema debe imprimir reporte de calificaciones 
+
+RF003: El sistema debe permitir la carga de materias 
+
+___________________________________________________________
+
+requisitos no funciuonales:
+
+RNF001: El sistema debe ser usable
+
+RNF002: El sistema debe der rapido
+
+RNF003: El sistemna debe ser seguro
+
+____________________________________
+
+lista de casos de uso:
+
+CU001: Registrar alumnos 
+
+CU002: Imprimir kardex
+
+CU003: Cargar materias
+
+__________________________
+
+concluciones:
+
+este sistema sirve para gestionar los servicios del departamento de control escolar.
