@@ -10,3 +10,13 @@ RF002: El sistema debe imprimir reporte de calificaciones
 RF003: El sistema debe permitir la carga de materias 
 
 ___________________________________________________________
+
+requisitos no funciuonales:
+
+RNF001: El sistema debe ser usable
+
+RNF002: El sistema debe der rapido
+
+RNF003: El sistemna debe ser seguro
+
+____________________________________
